@@ -1,0 +1,1 @@
+Utility functions, shared helper scripts, or modules that can be reused across different parts of the project. Examples include metrics calculations, data visualizations, and logging utilities.

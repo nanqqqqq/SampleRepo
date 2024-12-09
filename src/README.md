@@ -1,0 +1,1 @@
+The main source code directory containing the core implementation of the project. All business logic, including data loading, model definitions, and pipelines, resides here.

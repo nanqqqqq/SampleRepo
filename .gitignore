@@ -1,0 +1,17 @@
+# This file tells Git which files and directories to leave out when tracking changes.
+# In other words, anything listed here won't appear in your commits or on the remote repository.
+# You can also use patterns like '*.xyz' to ignore all files ending in .xyz.
+# This applies to directory as well.
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
